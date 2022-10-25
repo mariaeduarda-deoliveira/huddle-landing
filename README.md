@@ -18,4 +18,4 @@ Utilização de columns, além de aprimorar um pouco mais minhas habilidades de 
 ## Personalização
 - FontAwesome.
 
-[Veja o site aqui!]()
+[Veja o site aqui!](https://mariaeduarda-deoliveira.github.io/huddle-landing/)
